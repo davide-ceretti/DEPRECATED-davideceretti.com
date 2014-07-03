@@ -1,1 +1,1 @@
-dev_appserver.py website
+dev_appserver.py .
